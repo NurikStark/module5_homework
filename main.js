@@ -12,7 +12,7 @@ if (typeof arr == "number" && arr % 2 == 0 && !isNaN(arr)){
 }
 
 // module5_homework-2
-let x = NaN;
+let x = 15;
 
 if(typeof x == "number" && !isNaN){
   console.log('x - число');
